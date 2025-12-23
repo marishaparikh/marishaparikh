@@ -19,7 +19,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/marishaparikh?label=Follow&style=social)](https://github.com/marishaparikh) &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/marishaparikh/) &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=marishaparikh&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
